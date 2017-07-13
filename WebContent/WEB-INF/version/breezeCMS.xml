@@ -1,0 +1,10 @@
+﻿<description>
+	<ContentDir>dest/breezeCMS.zip</ContentDir>
+	<PatchDir>dest/breezeCMS_patch.zip</PatchDir>
+	<DocDir>dest/breezeCMS_doc.zip</DocDir>
+	<Type>BreezeCMS</Type>
+	<Version>3.25</Version>
+	<VersionDesc>
+		CMS list类型添加失败问题
+	</VersionDesc>
+</description>
